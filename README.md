@@ -11,7 +11,9 @@ Stack: Laravel 11.3, Octane, Roadrunner 2025, PHP 8.3, PHPStan
 - App http://127.0.0.1:8080/
 - API http://127.0.0.1:8080/api
 
-I have Swagger installed but huuuh.
+RateLimiter set to 30k RPM for docker network and 300 RPM for api (per IP).
+
+I have Swagger installed but huuuh idc. 
 
 API doc: 
 
