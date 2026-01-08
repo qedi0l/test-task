@@ -8,6 +8,7 @@ Stack: Laravel 11.3, Octane, Roadrunner 2025, PHP 8.3, PHPStan
 3. Build and run `make buildup`
 4. PHPStan analyze `make analyze`
 
+## Info
 - App http://127.0.0.1:8080/
 - API http://127.0.0.1:8080/api
 
